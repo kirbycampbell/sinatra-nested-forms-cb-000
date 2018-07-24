@@ -14,6 +14,7 @@ class Ship
 
   def self.clear
     SHIPS.clear
+    SHIPS
   end
 
 end
